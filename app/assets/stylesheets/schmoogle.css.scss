@@ -7,11 +7,8 @@ ul.nav {
   background: #2d2d2d;
   height: 38px;
   margin: 0;
-  // position: fe;
-  // left: 0px;
-  // top: 0px;
-  // width: 100%;
   -webkit-padding-start: 0; 
+  font-size: 14px;
 }
 
 ul.nav li {
@@ -35,9 +32,9 @@ ul.nav li a.active {
 
 div.search-container {
   background: #f4f4f4;
-  height: 79px;
+  height: 64px;
 }
 
 div.search-container form {
-  padding: 28px 10px 28px;
+  padding: 21px 10px 21px;
 }
