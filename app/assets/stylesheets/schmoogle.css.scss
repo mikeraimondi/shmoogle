@@ -43,6 +43,7 @@ ul.filters {
   height: 38px;
   border: 1px solid #ebebeb;
   margin: 0;
+  padding-left: 130px;
 }
 
 ul.filters li {
@@ -62,4 +63,32 @@ ul.filters li.active {
 
 ul.filters li a.active {
   color: #cc5a4a;
+}
+
+div.main-container {
+  width: 500px;
+  padding-left: 130px;
+}
+
+ol.search-result-list {
+  -webkit-padding-start: 0;
+}
+
+ol.search-result-list li {
+  margin: 26px 0px;
+  list-style: none;
+}
+
+div.search-result h3 {
+  margin: 0px;
+}
+
+div.search-result cite {
+  color: green;
+  display: block;
+  font-style: normal;
+}
+
+div.search-result a {
+  font-weight: normal;
 }
